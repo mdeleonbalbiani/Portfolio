@@ -776,6 +776,14 @@ section.contact-me {
     font-size: 80px;
 }
 
+/*Logo*/
+
+.logotipo{
+    width: 20%;
+    display:block;
+    margin:auto;
+}
+
 @media screen and (max-width: 1680px) {
     .menu {
         left: 5%;
