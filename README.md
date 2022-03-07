@@ -2,7 +2,7 @@
   
   ## Quieres verlo en vivo? 
   
-  https://portfolioalang.netlify.app/ 
+https://mdeleonbalbiani.github.io/Portfolio/
   
   ##
   #### - Acerca de mi
